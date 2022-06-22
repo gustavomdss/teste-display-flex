@@ -1,0 +1,51 @@
+*{
+
+    
+
+}
+.vermelho{
+    background-color: red;
+    height: 400px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    
+}
+.amarelo{
+    background-color: yellow;
+    height: 170px;
+    width: 300px;
+    border-color:orange;
+    border-width: 5px;
+    border-style: solid;
+    
+}
+.azul{
+    background-color: blue;
+    height: 70px;
+    width: 70px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+.verde{
+    background-color: green;
+    height: 70px;
+    width: 70px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+.preto{
+
+    background-color: black;
+    height: 170px;
+    width: 300px;
+    border-color:white;
+    border-width: 5px;
+    border-style: solid;
+}
+.preto h1{
+
+    color: white;
+}
